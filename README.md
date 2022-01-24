@@ -1,4 +1,4 @@
-### Olá, me chamo Matheus e sou estudante de Tecnologia 👋
+### Olá, me chamo Matheus Bastos, sou graduado em Sistemas de Informação e um estudante de Tecnologia 👋
 
 <!--
 **matheusmonteirob/matheusmonteirob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
